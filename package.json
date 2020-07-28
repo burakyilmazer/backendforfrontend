@@ -1,0 +1,25 @@
+{
+  "name": "backendforfrontend",
+  "version": "1.0.0",
+  "description": "backend for frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakyilmazer/backendforfrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burakyilmazer/backendforfrontend/issues"
+  },
+  "homepage": "https://github.com/burakyilmazer/backendforfrontend#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
